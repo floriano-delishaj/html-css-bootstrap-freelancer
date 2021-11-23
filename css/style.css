@@ -1,0 +1,42 @@
+.bg-aqua {
+    background-color: rgb(47, 211, 156);
+    color: #fff;
+}
+
+.aqua {
+    color: rgb(47, 211, 156);
+}
+
+.blue {
+    background-color: rgb(37, 77, 110);
+    color: #fff;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.box-img {
+    width: 150px;
+    height: 150px;
+}
+
+.progress {
+    width: 120px;
+    height: 4px;
+    background-color: #000;
+}
+
+.text-start p {
+    font-size: 17px;
+}
+
+.text-center.about p {
+    font-size: 20px
+}
+
+footer {
+    background-color: rgb(8, 31, 49);
+    color: #fff;
+    font-size: 12px;
+}
