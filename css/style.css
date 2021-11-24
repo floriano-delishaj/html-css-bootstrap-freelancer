@@ -34,6 +34,10 @@ form input, form textarea {
     border-bottom: 1px solid #ccc;
 }
 
+form textarea {
+    min-height: 100px;
+}
+
 form input::placeholder,
 form textarea::placeholder {
     color: #000;
