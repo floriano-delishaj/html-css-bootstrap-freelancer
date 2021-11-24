@@ -1,31 +1,35 @@
 .bg-aqua {
-    background-color: rgb(47, 211, 156);
+    background-color: rgb(54, 167, 129);
 } 
 
 .aqua {
     color: rgb(47, 211, 156);
 }
 
-.blue {
+.bg-blue {
     background-color: rgb(37, 77, 110);
 }
 
+.bg-dark-blue {
+    background-color: rgb(8, 31, 49);
+}
+
 .progress {
-    width: 120px;
+    width: 20%;
+    max-width: 120px;
     height: 4px;
 }
-
+/* 
 .text-center.about p {
     font-size: 20px;
-}
+} */
 
-a {
+.about a {
     line-height: 35px;
     width: 35px;
     height: 35px;
 }
 
 footer {
-    background-color: rgb(8, 31, 49);
     font-size: 12px;
 }
