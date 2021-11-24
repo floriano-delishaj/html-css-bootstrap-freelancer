@@ -14,6 +14,11 @@
     background-color: rgb(8, 31, 49);
 }
 
+.container-60 {
+    width: 60%;
+    margin: 0 auto;
+}
+
 .collapse ul {
     font-size: 12px;
 }
@@ -22,6 +27,16 @@
     width: 20%;
     max-width: 120px;
     height: 4px;
+}
+
+form input, form textarea {
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+
+form input::placeholder,
+form textarea::placeholder {
+    color: #000;
 }
 
 .about a {
