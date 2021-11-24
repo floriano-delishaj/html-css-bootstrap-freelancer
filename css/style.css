@@ -14,15 +14,15 @@
     background-color: rgb(8, 31, 49);
 }
 
+.collapse ul {
+    font-size: 12px;
+}
+
 .progress {
     width: 20%;
     max-width: 120px;
     height: 4px;
 }
-/* 
-.text-center.about p {
-    font-size: 20px;
-} */
 
 .about a {
     line-height: 35px;
